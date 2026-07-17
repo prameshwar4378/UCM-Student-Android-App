@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36529022469",
+    "project_id": "push-notification-ucm-producti",
+    "storage_bucket": "push-notification-ucm-producti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36529022469:android:1a0d7eb3468e6f6bd21e6c",
+        "android_client_info": {
+          "package_name": "ultracoachmatrix.in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABS_JR8W3N-AgNSXMzJ0pAesLtU8j9jeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

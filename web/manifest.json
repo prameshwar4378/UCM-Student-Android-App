@@ -1,0 +1,35 @@
+{
+    "name": "Ultra Coach Matrix",
+    "short_name": "UltraCoach",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0700A8",
+    "theme_color": "#0700A8",
+    "description": "Ultra Coach Matrix student and parent mobile workspace.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
